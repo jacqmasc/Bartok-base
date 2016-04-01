@@ -57,7 +57,11 @@ TextureImporter:
   spritePixelsToUnits: 100
   alphaIsTransparency: 1
   textureType: 8
-  buildTargetSettings: []
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
   spriteSheet:
     sprites:
     - name: Letters_0
@@ -68,7 +72,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Letters_1
       rect:
@@ -78,7 +82,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Letters_2
       rect:
@@ -198,7 +202,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Letters_14
       rect:
@@ -208,7 +212,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Letters_15
       rect:
@@ -218,7 +222,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
